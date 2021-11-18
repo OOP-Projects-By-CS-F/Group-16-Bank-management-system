@@ -1,6 +1,6 @@
 # Bank-management-system
 It's all about how atm work
 
-Team Members
+Team Member:
 
 1. Ritesh Kumar
